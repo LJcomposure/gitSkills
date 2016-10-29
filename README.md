@@ -1,1 +1,2 @@
 # gitSkills
+ i am git
